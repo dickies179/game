@@ -1,2 +1,2 @@
 # game
-game sederhana pyrhon
+game sederhana python
